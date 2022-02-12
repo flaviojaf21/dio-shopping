@@ -63,4 +63,7 @@ Feito por Flavio Ferreira 👋🏽 [Contato!](https://www.linkedin.com/in/flavio
 
 Reference of the project DIO [^1]
 
-https://github.com/nathyts/dioshopping
+Footnotes
+=========
+
+[^1]: https://github.com/nathyts/dioshopping
